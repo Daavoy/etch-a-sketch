@@ -1,0 +1,8 @@
+.board{
+    width:960px;
+    height:960px;
+    display:grid;
+}
+body{
+    background-color: rgb(39, 74, 105);
+}
